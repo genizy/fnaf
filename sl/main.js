@@ -1,5 +1,5 @@
-const runtimecanvas = "resources/sl1.cch";
-const parts = 3;
+const runtimecanvas = "resources/Five Night's at Freddys Sister Location.cch";
+const parts = 40;
 
 // -----------------
 const map = new Map();
