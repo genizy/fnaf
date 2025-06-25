@@ -1,5 +1,5 @@
-const runtimecanvas = "resources/fnafps.cch";
-const parts = 17;
+const runtimecanvas = "resources/Fnafps.cch";
+const parts = 19;
 
 // -----------------
 const map = new Map();
